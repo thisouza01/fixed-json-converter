@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Alice Silva",
+        "email": "alice.silva@example.com",
+        "balance": 1500.75
+    },
+    {
+        "name": "Bruno Costa",
+        "email": "bruno.costa@example.com",
+        "balance": 2350.0
+    },
+    {
+        "name": "Carla Souza",
+        "email": "carla.souza@example.com",
+        "balance": 312.2
+    },
+    {
+        "name": "Daniel Rocha",
+        "email": "daniel.rocha@example.com",
+        "balance": 800.0
+    },
+    {
+        "name": "Eduarda Lima",
+        "email": "eduarda.lima@example.com",
+        "balance": 1230.5
+    },
+    {
+        "name": "Fábio Mendes",
+        "email": "fabio.mendes@example.com",
+        "balance": 670.0
+    },
+    {
+        "name": "Gabriela Pires",
+        "email": "gabriela.pires@example.com",
+        "balance": 543.9
+    },
+    {
+        "name": "Henrique Dias",
+        "email": "henrique.dias@example.com",
+        "balance": 4000.0
+    },
+    {
+        "name": "Isabela Nunes",
+        "email": "isabela.nunes@example.com",
+        "balance": 980.0
+    },
+    {
+        "name": "João Martins",
+        "email": "joao.martins@example.com",
+        "balance": 50.75
+    }
+]
