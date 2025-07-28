@@ -1,0 +1,24 @@
+{"Usuarios": [
+{"Nome": "Alice", "Email": "alice.silva@example.com", "Saldo": 1500.75}
+,
+{"Nome": "Bruno", "Email": "bruno.costa@example.com", "Saldo": 2350.00}
+,
+{"Nome": "Carla", "Email": "carla.souza@example.com", "Saldo": 312.20}
+,
+{"Nome": "Daniel", "Email": "daniel.rocha@example.com", "Saldo": 800.00}
+,
+{"Nome": "Eduarda", "Email": "eduarda.lima@example.com", "Saldo": 1230.50}
+,
+{"Nome": "Fábio", "Email": "fabio.mendes@example.com", "Saldo": 670.00}
+,
+{"Nome": "Gabriela", "Email": "gabriela.pires@example.com", "Saldo": 543.90}
+,
+{"Nome": "Henrique", "Email": "henrique.dias@example.com", "Saldo": 4000.00}
+,
+{"Nome": "Isabela", "Email": "isabela.nunes@example.com", "Saldo": 980.00}
+,
+{"Nome": "João", "Email": "joao.martins@example.com", "Saldo": 50.75}
+,
+{"Nome": "Thiago", "Email": "thiago.souza@example.com", "Saldo": 1050.74}
+
+]}
