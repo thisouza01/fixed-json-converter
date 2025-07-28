@@ -48,5 +48,10 @@
         "name": "João Martins",
         "email": "joao.martins@example.com",
         "balance": 50.75
+    },
+    {
+        "name": "Thiago Souza",
+        "email": "thiago.souza@example.com",
+        "balance": 1050.74
     }
 ]

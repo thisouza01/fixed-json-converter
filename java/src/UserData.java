@@ -14,4 +14,16 @@ public class UserData {
     public double getBalance() {
         return balance;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public void setBalance(double balance) {
+        this.balance = balance;
+    }
 }
